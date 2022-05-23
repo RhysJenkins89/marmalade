@@ -1,0 +1,16 @@
+.cards_container {
+  width: 90vw;
+  margin: 0 auto 6rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  grid-row-gap: 2rem;
+
+  @media (max-width: 1050px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (max-width: 650px) {
+    grid-template-columns: 1fr;
+  }
+}

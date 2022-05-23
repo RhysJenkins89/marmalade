@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "addressLineOne": "Address one",
+      "addressLineTwo": "Addresstwo",
+      "city": "London",
+      "county": "London",
+      "postcode": "E23 T6N",
+      "phone": "0987654321",
+      "email": "test123@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "addressLineOne": "New Street",
+      "addressLineTwo": "Broad Av",
+      "city": "Birmingham",
+      "county": "West Midlands",
+      "postcode": "NH7 66D",
+      "phone": "0987654321",
+      "email": "test123@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Another",
+      "lastName": "Person",
+      "addressLineOne": "An Address",
+      "addressLineTwo": "A Street",
+      "city": "Town",
+      "county": "County",
+      "postcode": "MB7 TY6",
+      "phone": "1234567890",
+      "email": "test123@gmail.com",
+      "id": 4
+    }
+  ]
+}
